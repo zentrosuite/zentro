@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Zentro">
+  <defs>
+    <linearGradient id="zg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4F46E5"/><stop offset="0.55" stop-color="#4338CA"/><stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#zg)"/>
+  <!-- Three stacked bars read as inventory layers; the diagonal cuts a Z through them,
+       so the mark says "stock" and "Zentro" with the same shape. -->
+  <path d="M18 19h28a0 0 0 0 1 0 0v6.2a3 3 0 0 1-.9 2.13L27.4 45h18.6v6H18v-6.2a3 3 0 0 1 .9-2.13L36.6 25H18z"
+        fill="#fff" fill-opacity=".96"/>
+  <circle cx="49.5" cy="16.5" r="4.5" fill="#38BDF8"/>
+</svg>
